@@ -1,9 +1,9 @@
 # 💫 About Me:
-Student at Christ College of Engineering , Irinjalakuda<br>Currently learning Python , Statistics and Basics of Data Visualisaion<br>Exploring designing tools like Canva
+🏫Student at Christ College of Engineering , Irinjalakuda<br> 📚Currently learning Python , Statistics and Basics of Data Visualisaion<br>💛Exploring designing tools like Canva
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sneha T. Shine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehatshine.official@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha-t-shine) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehatshine.official@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
