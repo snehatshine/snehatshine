@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫Student at Christ College of Engineering , Irinjalakuda<br>📚Currently learning Python , Statistics and Basics of Data Visualisaion<br>💛Exploring designing tools like Canva
+🏫Student at Christ College of Engineering , Irinjalakuda<br>📚Currently learning Python , Statistics and Basics of Data Visualisaion<br>💛Exploring designing tools like Canva,Figma
 
 
 ## 🌐 Socials:
